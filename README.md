@@ -7,4 +7,4 @@
 ### In general, the trend is clearly visible – the larger the goal, the less successful the campaign is. And vice versa, the smaller the goal, the higher the probability of a successful campaign.
 ## We can conclude that the most successful months to start fundraising are May-July. And the most successful goal is either up to $5000 or from $35000 to $40000.
 ## During the analysis of database, we encountered some data limitations, such as limited period data or lack of data about the patron. 
-##To more accurately analyze the outcomes of fundraising campaigns and identify more criteria for success, we can analyze data about patron – gender, age, occupation, etc.
+## To more accurately analyze the outcomes of fundraising campaigns and identify more criteria for success, we can analyze data about patron – gender, age, occupation, etc.
